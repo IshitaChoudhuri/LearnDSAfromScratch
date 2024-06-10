@@ -10,3 +10,12 @@
 - **Review Day 1 Concepts**: Revised if-else statements, switch-case constructs, and arrays.
 - **Pattern Problem Solving**: Engaged in solving more pattern problems to enhance logical thinking skills.
 - **Basic Programming**: Implemented simple programs to solidify understanding of concepts learned so far.
+
+
+# Day 3: Bitwise Operators and Loops
+
+- **Review Previous Concepts**: Revised if-else statements, switch-case constructs, arrays, and basic programming exercises.
+- **Bitwise Operators**: Learned about bitwise AND, OR, XOR, NOT, and shift operations.
+- **For Loops**: Explored for loops and their applications in iteration.
+- **Operator Precedence & Variable Scoping**: Studied the order of operations in C++ and variable scope rules.
+- **LeetCode Practice**: Practiced solving easy problems on LeetCode to reinforce concepts.
