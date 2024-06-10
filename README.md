@@ -12,7 +12,7 @@
 - **Basic Programming**: Implemented simple programs to solidify understanding of concepts learned so far.
 
 
-# Day 3: Bitwise Operators and Loops
+# Day 3
 
 - **Review Previous Concepts**: Revised if-else statements, switch-case constructs, arrays, and basic programming exercises.
 - **Bitwise Operators**: Learned about bitwise AND, OR, XOR, NOT, and shift operations.
