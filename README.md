@@ -26,6 +26,14 @@
 # Day 5 and 6
 - **Break due to Family Issues**: No progress was made on these days due to urgent family matters.
 
+
 # Day 7: Revision and LeetCode Practice
 - **Review of All Concepts**: Revised all topics from the beginning, including control structures, arrays, bitwise operators, loops, operator precedence, and variable scoping.
 - **LeetCode Practice**: Solved only 2 easy problems on LeetCode due to interview preparation.
+
+# Day 8: Switch Case and Array Questions
+
+- **Switch Case Practice**: Solved several problems using switch-case constructs to strengthen understanding.
+- **Array Problem Solving**: Worked on various array-related questions to improve problem-solving skills with arrays.
+- **LeetCode Practice**: Solved additional problems on LeetCode to further enhance coding skills and prepare for interviews.
+
